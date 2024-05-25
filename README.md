@@ -25,3 +25,24 @@ Where,
 - **curr**: Current
 - **min**: Minimum
 - **max**: Maximum
+
+To generate VCI, PCI, and TCI, we need raster grids that capture the minimum and maximum values over a span of 15 years. These grids should specifically include data for Land Surface Temperature (LST), Normalized Difference Vegetation Index (NDVI), and Tropical Rainfall Measurement Mission (TRMM). The minimum value grid and the maximum value grid for each of these parameters are essential for the calculations. Obtaining the minimum and maximum raster grids constitutes a significant portion of the work, given its time-consuming nature. These grids are crucial for subsequent calculations. Utilizing the minimum, maximum, and current raster grid data, we computed the Vegetation Condition Index (VCI), Temperature Condition Index (TCI), and Precipitation Condition Index (PCI) for monthly data. Specifically, for our study area, VCI, TCI, and PCI were computed for the months of February, March, April, May, June, and July. The resulting monthly data for VCI, TCI, and PCI were then utilized for further analysis and interpretation.
+
+The Month-wise Integrated Drought Severity Index (IDSI) is calculated using a specific formula, resulting in values ranging from 0 to 100. In this context, an IDSI value close to zero indicates an extreme drought condition, while a value near 100 signifies a healthy condition. Following the classification by the International Water Management Institute (IWMI), different ranges of IDSI values correspond to distinct categories, indicating the severity of drought conditions.
+These categories could be
+- Healthy
+- Normal
+- Watch
+- Stress
+- Moderate Drought
+- Severe Drought
+- Extreme Drought
+
+This categorization helps in understanding and interpreting the severity of drought events, facilitating informed decision-making and management strategies for water resources and agricultural activities.
+
+## IDSI Formula
+<img width="419" alt="IDSI_2" src="https://github.com/shivaprakash23/IDSI-Integrated-Drought-Serverity-Index-/assets/13203442/a1c3eaa8-5382-4a00-960b-0bba81eb6e07">
+
+
+
+
