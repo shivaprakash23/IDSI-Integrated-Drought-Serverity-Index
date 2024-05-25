@@ -18,3 +18,10 @@ The IWMI, in collaboration with other research institutes like the Indian Counci
 
 ![IDSI_1](https://github.com/shivaprakash23/IDSI-Integrated-Drought-Serverity-Index-/assets/13203442/c7615e09-453d-4fc4-9133-461142711244)
 
+Where,
+- **LST**: Land Surface Temperature
+- **NDVI**: Normalized Difference Vegetation Index
+- **TRMM**: Tropical Rainfall Measurement Mission
+- **curr**: Current
+- **min**: Minimum
+- **max**: Maximum
