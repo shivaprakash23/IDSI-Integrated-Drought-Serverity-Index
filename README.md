@@ -1,4 +1,4 @@
-# IDSI-Integrated-Drought-Serverity-Index-
+# IDSI-Integrated-Drought-Serverity-Index
 This is repository for Integrated Drought Severity Index (IDSI) model . IDSI is empirical model given by IWMI.
 
 ## Drought
@@ -16,4 +16,5 @@ Drought is a complex event that progresses gradually and steadily, making its on
 The IWMI, in collaboration with other research institutes like the Indian Council of Agricultural Research (ICAR), has developed the Integrated Drought Severity Index (IDSI). This index combines three other indices: the Temperature Condition Index (TCI), Precipitation Condition Index (PCI), and Vegetation Condition Index (VCI).
 
 
+![IDSI_1](https://github.com/shivaprakash23/IDSI-Integrated-Drought-Serverity-Index-/assets/13203442/c7615e09-453d-4fc4-9133-461142711244)
 
